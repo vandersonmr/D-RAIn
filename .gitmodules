@@ -1,0 +1,3 @@
+[submodule "benchmarks/mibench"]
+	path = benchmarks/mibench
+	url = https://github.com/embecosm/mibench

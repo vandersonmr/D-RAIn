@@ -1,2 +1,2 @@
-# D-RAIn
-A Distributed Version of RAIn
+# Rain3
+Rain3 is a reimplementation of rain-code
